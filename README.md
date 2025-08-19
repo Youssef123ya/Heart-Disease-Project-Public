@@ -1,7 +1,7 @@
-Heart Disease Project
+#Heart Disease Project
 Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final project @ Sprints x Microsoft Summer Camp - AI and Machine Learning.
 
-Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset
+#Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset
 Objectives:
 Perform Data Preprocessing & Cleaning (handle missing values, encoding, scaling).
 Apply Dimensionality Reduction (PCA) to retain essential features.
@@ -19,5 +19,5 @@ Supervised Models: Logistic Regression, Decision Trees, Random Forest, SVM.
 Unsupervised Models: K-Means, Hierarchical Clustering.
 Model Optimization: GridSearchCV, RandomizedSearchCV.
 Deployment Tools: Streamlit [Bonus], Ngrok [Bonus], GitHub.
-Dataset
+#Dataset
 Heart Disease Dataset
